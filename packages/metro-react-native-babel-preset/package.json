@@ -1,6 +1,6 @@
 {
   "name": "metro-react-native-babel-preset",
-  "version": "0.64.0",
+  "version": "0.66.0",
   "description": "Babel preset for React Native applications",
   "main": "src/index.js",
   "repository": {
@@ -48,6 +48,7 @@
     "@babel/plugin-transform-react-jsx-self": "^7.0.0",
     "@babel/plugin-transform-react-jsx-source": "^7.0.0",
     "@babel/plugin-transform-regenerator": "^7.0.0",
+    "@babel/plugin-transform-async-to-generator": "^7.0.0",
     "@babel/plugin-transform-runtime": "^7.0.0",
     "@babel/plugin-transform-shorthand-properties": "^7.0.0",
     "@babel/plugin-transform-spread": "^7.0.0",
